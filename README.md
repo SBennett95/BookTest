@@ -6,4 +6,4 @@ This repository will be used for testing different statistical techniques from t
 1. Binomial Test.
 
 
-2. Chi-Squared Test
+2. Chi-Squared Test.
